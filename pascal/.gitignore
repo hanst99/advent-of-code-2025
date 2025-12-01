@@ -1,0 +1,6 @@
+out/bin/*
+out/obj/*
+out/unit/*
+!out/bin/.gitkeep
+!out/obj/.gitkeep
+!out/unit/.gitkeep
